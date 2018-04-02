@@ -8,8 +8,8 @@ subtitle: 假装有子标题
 description: 假装有描述
 keywords: scala,java,爬虫,技术,博客
 author: 羊三
-language: ZH
-timezone:
+language: zh-Hans
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
