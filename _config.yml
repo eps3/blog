@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 羊三的博客
+title: 聊聊技术
 subtitle: 假装有子标题
 description: 假装有描述
 keywords: scala,java,爬虫,技术,博客
 author: 羊三
-language: zh-Hans
+language: 
+  - zh-cn
 timezone: 
 
 # URL
@@ -73,7 +74,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+# theme: maupassant
+theme: even
+# theme: polarbear
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
