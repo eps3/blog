@@ -5,5 +5,5 @@ cd $basepath
 
 hexo clean && \
 hexo d -g && \
-rsync -arzp ./ sheep3@47.94.154.184:/home/sheep3/prod_work/blog
+rsync -avrz ./ root@sheep3.com:/usr/local/webserver/blog/
 
